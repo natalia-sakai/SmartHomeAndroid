@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="btn_start_now">start now</string>
+    <string name="my_home">My Home</string>
+    <string name="my_rooms">My Room\'s</string>
+    <string name="btn_back">Back</string>
+    <string name="txt_room1">Living Room</string>
+    <string name="txt_room2">Jim\'s Room</string>
+    <string name="txt_device1">Speaker</string>
+    <string name="txt_numdevices1">1 device connected</string>
+    <string name="txt_numdevices2">2 devices connected</string>
+    <string name="txt_device2">Marco</string>
+    <string name="txt_status1">Playing</string>
+    <string name="txt_status2">Brightness 80%</string>
+    <string name="air_condition">Ultra fine dust:</string>
+    <string name="condition">Very</string>
+    <string name="txt_nome">Coreaninha</string>
+    <string name="txt_email">coreaninha@gmail.com</string>
+    <string name="txt_password">coreaninha</string>
+    <string name="btn_save">Salvar</string>
+
+</resources>
